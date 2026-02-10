@@ -58,7 +58,7 @@ web_medio_ambiente/
 
 Evidencia Visual del Funcionamiento
 🏠 Página de Inicio
-![Página de inicio]()
+![Página de inicio](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/INICIO.png)
 
 🌱 Sistema de Gestión Ambiental
 ![Sistema de Gestión Ambiental](ruta/a/imagen_sistema.png)
