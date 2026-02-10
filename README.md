@@ -1,24 +1,23 @@
 # ꜱɪꜱᴛᴇᴍᴀ ᴅᴇ ɢᴇꜱᴛɪᴏɴ ᴀᴍʙɪᴇɴᴛᴀʟ
 Este proyecto consiste en el desarrollo de una aplicación web educativa utilizando el framework Flask (Python), cuyo objetivo es concientizar sobre la importancia del cuidado del medio ambiente. 
-#  Aplicación Web Educativa sobre el Medio Ambiente  
-### Desarrollada con Flask (Python)
+##### Desarrollada con Flask (Python)
 
 ---
 
 [ Ver documentación completa del proyecto](https://docs.google.com/document/d/1Qu5PVUVtMpEhFkNTqdpM8vk4RN9NS0yxM8HdMWyacIk/edit?tab=t.0)
 
-## Autora
+## ᴀᴜᴛᴏʀᴀ
 ᴀʟᴏɴᴅʀᴀ ᴠɪᴀɴɴᴇʏ ʜᴇʀɴᴀɴᴅᴇᴢ ᴛᴏʀʀᴇꜱ ɢᴛɪᴅ𝟣𝟧𝟤
 ᵘᵗⁿᵍ
 
-##  Descripción del Proyecto
+## ᴅᴇꜱᴄʀɪᴘᴄɪóɴ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 
 Esta aplicación web educativa fue desarrollada utilizando el framework **Flask**, con el objetivo de **concientizar sobre la importancia del cuidado del medio ambiente**.  
 El sitio presenta información clara, visual y organizada, aplicando principios básicos de **desarrollo web**, **usabilidad**, **diseño responsivo** y **buenas prácticas de ingeniería de software**.
 
 ---
 
-##  Objetivo del Proyecto
+## ᴏʙᴊᴇᴛɪᴠᴏ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 
 Crear una Web App educativa que informe sobre:
 
@@ -29,7 +28,7 @@ Crear una Web App educativa que informe sobre:
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## ᴛᴇᴄɴᴏʟᴏɢíᴀꜱ ᴜᴛɪʟɪᴢᴀᴅᴀꜱ
 
 -  Python 3  
 -  Flask  
@@ -40,7 +39,7 @@ Crear una Web App educativa que informe sobre:
 
 ---
 
-##  Estructura del Proyecto
+## ᴇꜱᴛʀᴜᴄᴛᴜʀᴀ ᴅᴇʟ ᴘʀᴏʏᴇᴄᴛᴏ
 
 ```text
 web_medio_ambiente/
@@ -57,25 +56,20 @@ web_medio_ambiente/
 │   └── images/
 │
 └── venv/
+```
 
-<img src="https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/INICIO.png" width="260"/>
-    </td>
-    <td>
-      <img 
-
-
-Evidencia Visual del Funcionamiento
- Página de Inicio
-![Página de inicio]()
+# ᴇᴠɪᴅᴇɴᴄɪᴀ ᴠɪꜱᴜᴀʟ ᴅᴇʟ ꜰᴜɴᴄɪᴏɴᴀᴍɪᴇɴᴛᴏ 
+#### 𝙿á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙸𝚗𝚒𝚌𝚒𝚘
+![Página de inicio](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/INICIO.png)
 
 Sistema de Gestión Ambiental
-![Sistema de Gestión Ambiental]()
+![Sistema de Gestión Ambiental](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/sistema.png)
 
 Futuro del Planeta
-![Futuro del planeta]()
+![Futuro del planeta](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/futuro.png)
 
 Las 3 R
-![Las 3 R]()
+![Las 3 R](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/reciclar.png)
 
 
 
