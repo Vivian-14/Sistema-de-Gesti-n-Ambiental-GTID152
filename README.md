@@ -1,6 +1,20 @@
-# ꜱɪꜱᴛᴇᴍᴀ ᴅᴇ ɢᴇꜱᴛɪᴏɴ ᴀᴍʙɪᴇɴᴛᴀʟ
+
+</p>
+
+<h1 align="center"> <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="54"<b>  ꜱɪꜱᴛᴇᴍᴀ ᴅᴇ ɢᴇꜱᴛɪᴏɴ ᴀᴍʙɪᴇɴᴛᴀʟ </b><img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="54"></h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1b/ca/e0/1bcae0d8a2626a4e9c7557a1896147f2.gif" 
+</p>
+
+
+
+
+
+
+
+
+##### Desarrollada con Flask (Python) 
 Este proyecto consiste en el desarrollo de una aplicación web educativa utilizando el framework Flask (Python), cuyo objetivo es concientizar sobre la importancia del cuidado del medio ambiente. 
-##### Desarrollada con Flask (Python)
 
 ---
 
