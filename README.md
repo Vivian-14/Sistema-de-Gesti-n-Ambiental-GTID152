@@ -56,18 +56,20 @@ web_medio_ambiente/
 └── venv/
 
 
+
+
 Evidencia Visual del Funcionamiento
-🏠 Página de Inicio
-![Página de inicio](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/INICIO.png)
+ Página de Inicio
+![Página de inicio]()
 
-🌱 Sistema de Gestión Ambiental
-![Sistema de Gestión Ambiental](ruta/a/imagen_sistema.png)
+Sistema de Gestión Ambiental
+![Sistema de Gestión Ambiental]()
 
-🔮 Futuro del Planeta
-![Futuro del planeta](ruta/a/imagen_futuro.png)
+Futuro del Planeta
+![Futuro del planeta]()
 
-♻️ Las 3 R
-![Las 3 R](ruta/a/imagen_3r.png)
+Las 3 R
+![Las 3 R]()
 
 
 
