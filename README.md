@@ -7,6 +7,9 @@ Este proyecto consiste en el desarrollo de una aplicación web educativa utiliza
 
 [ Ver documentación completa del proyecto](https://docs.google.com/document/d/1Qu5PVUVtMpEhFkNTqdpM8vk4RN9NS0yxM8HdMWyacIk/edit?tab=t.0)
 
+## Autora
+ᴀʟᴏɴᴅʀᴀ ᴠɪᴀɴɴᴇʏ ʜᴇʀɴᴀɴᴅᴇᴢ ᴛᴏʀʀᴇꜱ ɢᴛɪᴅ𝟣𝟧𝟤
+ᵘᵗⁿᵍ
 
 ##  Descripción del Proyecto
 
@@ -55,7 +58,10 @@ web_medio_ambiente/
 │
 └── venv/
 
-
+<img src="https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/INICIO.png" width="260"/>
+    </td>
+    <td>
+      <img 
 
 
 Evidencia Visual del Funcionamiento
