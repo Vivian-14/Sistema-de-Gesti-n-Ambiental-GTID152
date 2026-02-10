@@ -92,6 +92,7 @@ web_medio_ambiente/
 #### ʟᴀꜱ 𝟥 ʀ
 ![Las 3 R](https://github.com/Vivian-14/Sistema-de-Gesti-n-Ambiental-GTID152/blob/main/Imagenes/reciclar.png)
 
+# ᴅᴏᴄᴜᴍᴇɴᴛᴀᴄɪóɴ ᴅᴇʟ ᴄóᴅɪɢᴏ 
 
 
 
