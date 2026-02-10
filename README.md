@@ -5,6 +5,9 @@ Este proyecto consiste en el desarrollo de una aplicación web educativa utiliza
 
 ---
 
+[ Ver documentación completa del proyecto](https://docs.google.com/document/d/1Qu5PVUVtMpEhFkNTqdpM8vk4RN9NS0yxM8HdMWyacIk/edit?tab=t.0)
+
+
 ##  Descripción del Proyecto
 
 Esta aplicación web educativa fue desarrollada utilizando el framework **Flask**, con el objetivo de **concientizar sobre la importancia del cuidado del medio ambiente**.  
@@ -51,3 +54,22 @@ web_medio_ambiente/
 │   └── images/
 │
 └── venv/
+
+
+Evidencia Visual del Funcionamiento
+🏠 Página de Inicio
+![Página de inicio]()
+
+🌱 Sistema de Gestión Ambiental
+![Sistema de Gestión Ambiental](ruta/a/imagen_sistema.png)
+
+🔮 Futuro del Planeta
+![Futuro del planeta](ruta/a/imagen_futuro.png)
+
+♻️ Las 3 R
+![Las 3 R](ruta/a/imagen_3r.png)
+
+
+
+
+
