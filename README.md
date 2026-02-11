@@ -140,8 +140,6 @@ Las demás páginas extienden esta plantilla base y únicamente cambian el conte
 
 Bootstrap se utiliza para lograr un diseño responsivo que se adapta a distintos dispositivos.
 
-## Comentarios del código (explicación como estudiante)
-
 - La variable `breadcrumb` se usa para mostrar al usuario en qué sección se encuentra, lo que mejora la navegación.
 - El uso de `{% extends "base.html" %}` permite reutilizar el diseño general y mantener consistencia visual.
 - La función `url_for('static', filename='images/...')` se utiliza para cargar imágenes desde la carpeta `static`, siguiendo la convención de Flask.
@@ -156,3 +154,6 @@ Bootstrap se utiliza para lograr un diseño responsivo que se adapta a distintos
 Instalación básica de Flask:
 ```bash
 pip install flask
+ ```
+
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌≽^•⩊•^≼﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
