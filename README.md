@@ -18,7 +18,7 @@ Este proyecto consiste en el desarrollo de una aplicación web educativa utiliza
 
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌≽^•⩊•^≼﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
-[ Ver documentación completa del proyecto](https://docs.google.com/document/d/1Qu5PVUVtMpEhFkNTqdpM8vk4RN9NS0yxM8HdMWyacIk/edit?tab=t.0)
+[ Ver documentación completa del proyecto](https://docs.google.com/document/d/1c3cvthmLzW7vn2FMskaMQ-k-FeD45d2OXPltmwoZaEM/edit?usp=sharing)
 
 ## ᴀᴜᴛᴏʀᴀ
 ᴀʟᴏɴᴅʀᴀ ᴠɪᴀɴɴᴇʏ ʜᴇʀɴᴀɴᴅᴇᴢ ᴛᴏʀʀᴇꜱ ɢᴛɪᴅ𝟣𝟧𝟤
