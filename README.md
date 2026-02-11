@@ -97,3 +97,62 @@ web_medio_ambiente/
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌≽^•⩊•^≼﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 ## ᴅᴏᴄᴜᴍᴇɴᴛᴀᴄɪóɴ ᴅᴇʟ ᴄóᴅɪɢᴏ 
+
+
+### Descripción de los archivos principales
+
+- **app.py**: Archivo principal del backend. Contiene la configuración de Flask y las rutas de la aplicación.
+- **templates/**: Carpeta donde se almacenan los archivos HTML.
+  - **base.html**: Plantilla base que contiene el menú de navegación, las migas de pan y el diseño general.
+  - **index.html**: Página principal de la aplicación.
+  - **sistema.html**: Sección sobre el Sistema de Gestión Ambiental.
+  - **futuro.html**: Sección sobre el futuro del planeta.
+  - **tres_r.html**: Sección dedicada a las 3 R.
+- **static/images/**: Contiene las imágenes utilizadas en cada sección.
+- **venv/**: Entorno virtual de Python para gestionar dependencias.
+
+## Descripción del funcionamiento del código
+
+### Backend (app.py)
+
+El archivo `app.py` inicia creando una instancia de la aplicación Flask.  
+Posteriormente, se definen diferentes rutas que corresponden a cada sección de la aplicación.
+
+Cada ruta retorna una vista HTML utilizando `render_template`, y se envía una lista llamada `breadcrumb` que permite mostrar dinámicamente las migas de pan en la interfaz.
+
+Por ejemplo:
+- La ruta `/` carga la página principal.
+- La ruta `/sistema-ambiental` muestra la sección del Sistema de Gestión Ambiental.
+- La ruta `/futuro` presenta información sobre el futuro del planeta.
+- La ruta `/tres-r` muestra el contenido relacionado con Reducir, Reutilizar y Reciclar.
+
+Finalmente, la aplicación se ejecuta en modo debug para facilitar el desarrollo.
+
+### Frontend (HTML + Bootstrap)
+
+La plantilla `base.html` define la estructura general del sitio, incluyendo:
+- Barra de navegación (navbar).
+- Migas de pan dinámicas.
+- Área de contenido reutilizable.
+- Pie de página.
+
+Las demás páginas extienden esta plantilla base y únicamente cambian el contenido específico de cada sección, lo cual evita repetir código y mejora la organización del proyecto.
+
+Bootstrap se utiliza para lograr un diseño responsivo que se adapta a distintos dispositivos.
+
+## Comentarios del código (explicación como estudiante)
+
+- La variable `breadcrumb` se usa para mostrar al usuario en qué sección se encuentra, lo que mejora la navegación.
+- El uso de `{% extends "base.html" %}` permite reutilizar el diseño general y mantener consistencia visual.
+- La función `url_for('static', filename='images/...')` se utiliza para cargar imágenes desde la carpeta `static`, siguiendo la convención de Flask.
+- El menú de navegación facilita el acceso a todas las secciones sin necesidad de escribir la URL manualmente.
+
+## Requisitos para ejecutar el proyecto
+
+- Python 3 instalado.
+- Flask instalado en un entorno virtual.
+- Navegador web actualizado.
+
+Instalación básica de Flask:
+```bash
+pip install flask
